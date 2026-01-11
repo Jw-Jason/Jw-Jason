@@ -12,8 +12,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/jasonwilliem/
-[linkedin]: www.linkedin.com/in/jason-williem-candra-115873259
-
+[linkedin]: https://www.linkedin.com/in/jason-williem-candra-115873259/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
