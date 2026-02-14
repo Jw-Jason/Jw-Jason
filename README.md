@@ -3,6 +3,8 @@
 <h2>👨‍💻 Data Science Project:</h2>
 
 - <b>[Recruitmen Efficiency Improved](https://github.com/Jw-Jason/Project_Recruitment_Efficiency)<b>
+- <b>[Sales Dashboard With Looker Studio](https://github.com/Jw-Jason/Sales_Dashboard_Bank_Muamalat)<b>
+
 
 
 
