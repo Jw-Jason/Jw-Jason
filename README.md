@@ -8,6 +8,8 @@ ability to perform data analysis and work effectively both independently and col
 
 - <b>[Recruitmen Efficiency Improved](https://github.com/Jw-Jason/Project_Recruitment_Efficiency)<b>
 - <b>[Sales Dashboard With Looker Studio](https://github.com/Jw-Jason/Sales_Dashboard_Bank_Muamalat)<b>
+- <b>[Performance Dashboard With Looker Studio](https://github.com/Jw-Jason/Dashboard_Kimia_Farma)<b>
+
 
 
 
